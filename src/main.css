@@ -1,0 +1,23 @@
+@import 'bootstrap/dist/css/bootstrap.min.css';
+
+form {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    width: 200px;
+    padding: 20px;
+}
+
+nav{
+    background-color: #001247;
+    color: white;
+    display: "flex";
+    justify-content: space-between;
+    padding: 20px;
+}
+
+ ul{
+    display: flex;
+    list-style: none;
+    gap: 2px;
+}
